@@ -1,1 +1,1 @@
-setupBluetooth	KEYWORD2	setupBluetooth	KEYWORD2
+setupBluetooth	KEYWORD2
